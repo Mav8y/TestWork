@@ -1,0 +1,14 @@
+C:\Users\matve\source\repos\TestWork\TestWork\bin\Debug\net8.0\TestWork.exe
+C:\Users\matve\source\repos\TestWork\TestWork\bin\Debug\net8.0\TestWork.deps.json
+C:\Users\matve\source\repos\TestWork\TestWork\bin\Debug\net8.0\TestWork.runtimeconfig.json
+C:\Users\matve\source\repos\TestWork\TestWork\bin\Debug\net8.0\TestWork.dll
+C:\Users\matve\source\repos\TestWork\TestWork\bin\Debug\net8.0\TestWork.pdb
+C:\Users\matve\source\repos\TestWork\TestWork\obj\Debug\net8.0\TestWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\source\repos\TestWork\TestWork\obj\Debug\net8.0\TestWork.AssemblyInfoInputs.cache
+C:\Users\matve\source\repos\TestWork\TestWork\obj\Debug\net8.0\TestWork.AssemblyInfo.cs
+C:\Users\matve\source\repos\TestWork\TestWork\obj\Debug\net8.0\TestWork.csproj.CoreCompileInputs.cache
+C:\Users\matve\source\repos\TestWork\TestWork\obj\Debug\net8.0\TestWork.dll
+C:\Users\matve\source\repos\TestWork\TestWork\obj\Debug\net8.0\refint\TestWork.dll
+C:\Users\matve\source\repos\TestWork\TestWork\obj\Debug\net8.0\TestWork.pdb
+C:\Users\matve\source\repos\TestWork\TestWork\obj\Debug\net8.0\TestWork.genruntimeconfig.cache
+C:\Users\matve\source\repos\TestWork\TestWork\obj\Debug\net8.0\ref\TestWork.dll
